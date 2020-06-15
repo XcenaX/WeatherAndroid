@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap android:src="@drawable/launch_screen_img"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center">
+
+</bitmap>

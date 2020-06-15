@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="main_btn_text">Take</string>
+    <string name="main_title_text">Press button for weather on your location</string>
+    <string name="weather_latitude_text">Latitude</string>
+    <string name="weather_longitude_text">Longitude</string>
+    <string name="weather_wind_text">Wind speed</string>
+    <string name="weather_temp_text">Temperature (С)</string>
+    <string name="weather_hum_text">Humidity</string>
+    <string name="bottom_menu_home_txt">Main</string>
+    <string name="bottom_menu_cities_txt">Cities</string>
+    <string name="action_search">Search</string>
+</resources>

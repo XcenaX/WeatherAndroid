@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_action_home"
+        android:title="@string/bottom_menu_home_txt" />
+
+    <item
+        android:id="@+id/navigation_cities"
+        android:icon="@drawable/ic_cities_action"
+        android:title="@string/bottom_menu_cities_txt" />
+</menu>

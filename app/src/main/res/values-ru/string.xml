@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="main_btn_text">Получить</string>
+    <string name="main_title_text">Нажмите кнопку для получения погоды по местоположению</string>
+    <string name="weather_latitude_text">Широта</string>
+    <string name="weather_longitude_text">Долгота</string>
+    <string name="weather_wind_text">Скорость ветра</string>
+    <string name="weather_temp_text">Температура (С)</string>
+    <string name="weather_hum_text">Влажность</string>
+    <string name="bottom_menu_home_txt">Главная</string>
+    <string name="bottom_menu_cities_txt">Города</string>
+    <string name="action_search">Поиск</string>
+</resources>
